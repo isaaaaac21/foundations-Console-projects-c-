@@ -1,0 +1,195 @@
+﻿  calculator.cpp
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(214,12): warning C4240: nonstandard extension used: access to 'clsUser::sRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'calculator.cpp')
+      F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(24,12):
+      see declaration of 'clsUser::sRecord'
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(242,12): warning C4240: nonstandard extension used: access to 'clsBankClient::sTransInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'calculator.cpp')
+      F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(27,12):
+      see declaration of 'clsBankClient::sTransInfo'
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(39,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(59,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(562,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(582,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsAddClient.h(22,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUpdateScreen.h(43,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsDeposit.h(51,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsTransferScreen.h(74,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsTransferScreen.h(78,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsCalculatorScreen.h(37,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'calculator.cpp')
+  
+  clsTransferLog.cpp
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(214,12): warning C4240: nonstandard extension used: access to 'clsUser::sRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTransferLog.cpp')
+      F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(24,12):
+      see declaration of 'clsUser::sRecord'
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(242,12): warning C4240: nonstandard extension used: access to 'clsBankClient::sTransInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTransferLog.cpp')
+      F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(27,12):
+      see declaration of 'clsBankClient::sTransInfo'
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(39,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(59,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(562,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(582,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLog.cpp')
+  
+  clsUpdateScreen.cpp
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(214,12): warning C4240: nonstandard extension used: access to 'clsUser::sRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUpdateScreen.cpp')
+      F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(24,12):
+      see declaration of 'clsUser::sRecord'
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(242,12): warning C4240: nonstandard extension used: access to 'clsBankClient::sTransInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUpdateScreen.cpp')
+      F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(27,12):
+      see declaration of 'clsBankClient::sTransInfo'
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(39,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(59,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(562,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(582,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUpdateScreen.h(43,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateScreen.cpp')
+  
+  clsWithdrawScreen.cpp
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(214,12): warning C4240: nonstandard extension used: access to 'clsUser::sRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsWithdrawScreen.cpp')
+      F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(24,12):
+      see declaration of 'clsUser::sRecord'
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(242,12): warning C4240: nonstandard extension used: access to 'clsBankClient::sTransInfo' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsWithdrawScreen.cpp')
+      F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(27,12):
+      see declaration of 'clsBankClient::sTransInfo'
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(39,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(59,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(562,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(582,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+  Generating Code...
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsBankClient.h(419,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\clsUser.h(366,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  calculator.vcxproj -> F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\x64\Debug\calculator.exe

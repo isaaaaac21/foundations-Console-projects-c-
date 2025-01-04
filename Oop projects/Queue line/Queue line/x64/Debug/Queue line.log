@@ -1,0 +1,8 @@
+﻿  Queue line.cpp
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\Queue line\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\Queue line\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\Queue line\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\Queue line\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\Queue line\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\Queue line\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Queue line.vcxproj -> F:\programming\Fundamentals\JUST PRACTICE\Projects\Oop projects\calculator\Queue line\x64\Debug\Queue line.exe
