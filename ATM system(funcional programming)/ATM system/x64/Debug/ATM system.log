@@ -1,0 +1,5 @@
+﻿  ATM system.cpp
+F:\programming\Fundamentals\JUST PRACTICE\Projects\ATM system\headers.h(71,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Projects\ATM system\ATM system.cpp(249,17): warning C4129: 'Q': unrecognized character escape sequence
+F:\programming\Fundamentals\JUST PRACTICE\Projects\ATM system\ATM system.cpp(94,1): warning C4715: 'readQuickChoice': not all control paths return a value
+  ATM system.vcxproj -> F:\programming\Fundamentals\JUST PRACTICE\Projects\ATM system\x64\Debug\ATM system.exe

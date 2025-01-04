@@ -1,0 +1,12 @@
+﻿  Math quiz.cpp
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(236,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(70,1): warning C4715: 'stLevels': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(50,1): warning C4715: 'randomType': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(130,1): warning C4715: 'randomLevel': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(112,1): warning C4715: 'stOperators': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(140,1): warning C4715: 'generateNums': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(93,1): warning C4715: 'stTypes': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(156,1): warning C4715: 'readLevel': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(172,1): warning C4715: 'readType': not all control paths return a value
+F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\Math quiz.cpp(196,1): warning C4715: 'operationResult': not all control paths return a value
+  Math quiz.vcxproj -> F:\programming\Fundamentals\JUST PRACTICE\Projects\Math quiz\x64\Debug\Math quiz.exe

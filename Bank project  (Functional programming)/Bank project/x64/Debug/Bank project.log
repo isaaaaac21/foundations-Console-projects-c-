@@ -1,0 +1,7 @@
+﻿  Bank project.cpp
+F:\programming\Fundamentals\JUST PRACTICE\Bank project\HelpfulThings.h(16,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Bank project\HelpfulThings.h(362,21): warning C4129: 'w': unrecognized character escape sequence
+F:\programming\Fundamentals\JUST PRACTICE\Bank project\HelpfulThings.h(393,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Bank project\user.h(337,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\Bank project\Bank project.cpp(153,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Bank project.vcxproj -> F:\programming\Fundamentals\JUST PRACTICE\Bank project\x64\Debug\Bank project.exe
