@@ -1,0 +1,5 @@
+﻿  ALGORITHMS.cpp
+F:\programming\Fundamentals\JUST PRACTICE\ALGORITHMS\stringPro.h(29,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\ALGORITHMS\stringPro.h(42,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\programming\Fundamentals\JUST PRACTICE\ALGORITHMS\stringPro.h(59,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ALGORITHMS.vcxproj -> F:\programming\Fundamentals\JUST PRACTICE\ALGORITHMS\x64\Debug\ALGORITHMS.exe
